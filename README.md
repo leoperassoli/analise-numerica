@@ -1,6 +1,6 @@
  # analise numerica(SME0206):
 
- ##implementacao computacional de metodos numericos
+ ## implementacao computacional de metodos numericos
 
  <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leoperassoli/analise-numerica.svg">
